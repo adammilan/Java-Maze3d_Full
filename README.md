@@ -11,6 +11,6 @@ If your too lazy to run the Full project, you can Download the Compile File atta
 
 
 # Keys:
-Page up to go upper floor
-Page down to go down floor
+Page up to go upper floor,
+Page down to go down floor,
 arrows key's - for left / right / forward / backward
