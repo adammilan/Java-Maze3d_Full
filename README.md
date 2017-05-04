@@ -7,3 +7,10 @@ Algorithm for building the Maze3d: Growing Tree Algorithm (http://weblog.jamisbu
 
 
 If your too lazy to run the Full project, you can Download the Compile File attaching in this reposities called "compile maze3d" (its basiclay same files but as jar files) and then hit Run.bat button.
+
+
+
+#Keys:
+Page up to go upper floor
+Page down to go down floor
+arrows key's - for left / right / forward / backward
