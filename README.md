@@ -7,8 +7,8 @@ Algorithm for building the Maze3d: Growing Tree Algorithm (http://weblog.jamisbu
 
 IDE: eclipse
 
-* ###### If your too lazy to run the Full project, you can Download the Compile File attaching in this reposities called "compile maze3d" (its basiclay same files but as jar files) and then hit Run.bat button.
-
+<b>* ###### If your too lazy to run the Full project, you can Download the Compile File attaching in this reposities called "compile maze3d" (its basiclay same files but as jar files) and then hit Run.bat button. <b>
+ 
 
 Maze3D | Algorithms
 ------------ | -------------
